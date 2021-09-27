@@ -1,0 +1,68 @@
+<h1>Editar Aluno</h1>
+<hr>
+
+<form name="cadaluno" id="cadaluno" method="post" action="aluno/confirma_edicao_aluno.php?codigo_aluno={id}">
+    <section class="row" id="cadastro">
+        <div class="col-md-5">
+            <label>Matrícula</label>
+            <input type="number" name="matricula" class="form-control" value="{matricula}" required>
+        </div>
+
+        <div class="col-md-7">
+            <label>Nome:</label>
+            <input type="text" name="nome" class="form-control" value="{nome}" required>
+        </div>
+
+        <div class="col-md-6">
+            <label>Sobrenome:</label>
+            <input type="text" name="sobrenome" class="form-control" value="{sobrenome}" required>
+        </div>
+
+        <div class="col-md-6">
+            <label>Email:</label>
+            <input type="email" name="email" class="form-control" value="{email}" required>
+        </div>
+
+        <div class="col-md-4">
+            <label>Telefone:</label>
+            <input type="number" name="telefone" class="form-control" value="{telefone}" required>
+        </div>
+
+        <div class="col-md-4">
+            <label>CPF:</label>
+            <input type="number" name="cpf" class="form-control" value="{cpf}" required>
+        </div>
+
+        <div class="col-md-4">
+            <label for="exampleFormControlSelect1">Período</label>
+            <select class="form-control" name="id_periodo">
+                {periodos}
+            </select>
+        </div>
+
+        <div class="col-md-6">
+            <label>Endereço:</label>
+            <input type="text" name="endereco" class="form-control" value="{endereco}" required>
+        </div>
+
+        <div class="col-md-6">
+            <label for="exampleFormControlSelect1">Curso</label>
+            <select class="form-control" name="id_curso">
+                {cursos}
+            </select>
+        </div>
+    </section>
+
+    <br>
+    <br>
+    <section class="row" id="btngravar">
+        <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <button type="submit" class="btn btn-success btn-block"
+                        onclick="alert('Registro editado com sucesso!')">
+                   Salvar
+                </button>
+            </div>
+        <div class="col-md-4"></div>
+    </section>
+</form>

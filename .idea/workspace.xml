@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d05650f-6f7a-48e0-8fb8-c35e1b6261ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i8o0QIvtwgGZ2ULqSw4ghmwyAQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3-data" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\2-biblioteca\bibliotecario\aluno" />
+      <recent name="C:\xampp\htdocs\2-biblioteca\bibliotecario\livro" />
+      <recent name="C:\xampp\htdocs\2-biblioteca\bibliotecario\funcionario" />
+      <recent name="C:\xampp\htdocs\2-biblioteca\bibliotecario" />
+      <recent name="C:\xampp\htdocs\2-biblioteca\aluno" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d05650f-6f7a-48e0-8fb8-c35e1b6261ea" name="Default Changelist" comment="" />
+      <created>1601298356576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601298356576</updated>
+      <workItem from="1601298357763" duration="37185000" />
+      <workItem from="1601375208727" duration="23231000" />
+      <workItem from="1601464296070" duration="33583000" />
+      <workItem from="1601546616358" duration="36681000" />
+      <workItem from="1601635851930" duration="45572000" />
+      <workItem from="1601720803545" duration="28420000" />
+      <workItem from="1601767305435" duration="2742000" />
+      <workItem from="1601811265702" duration="10159000" />
+      <workItem from="1601840176630" duration="16685000" />
+      <workItem from="1601901534975" duration="6905000" />
+      <workItem from="1601912920029" duration="8102000" />
+      <workItem from="1603107444853" duration="21767000" />
+      <workItem from="1603226738229" duration="412000" />
+      <workItem from="1603292790836" duration="597000" />
+      <workItem from="1603398052070" duration="598000" />
+      <workItem from="1603476638215" duration="14309000" />
+      <workItem from="1603538676752" duration="1940000" />
+      <workItem from="1603560020385" duration="11947000" />
+      <workItem from="1603891764869" duration="4888000" />
+      <workItem from="1603913639220" duration="7472000" />
+      <workItem from="1604398111225" duration="598000" />
+      <workItem from="1604417322204" duration="10196000" />
+      <workItem from="1604439457014" duration="7150000" />
+      <workItem from="1604482821361" duration="6319000" />
+      <workItem from="1604502112626" duration="2387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601765849707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601765849707" />
+    <state x="220" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601469282275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="220" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1601469282275" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1603120439828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603120439828" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1601330234599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1601330234599" />
+    <state x="487" y="85" key="NewPhpClassDialog" timestamp="1601726925765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="85" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1601726925765" />
+    <state x="326" y="311" key="NewPhpFileDialog" timestamp="1604488474047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="311" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604488474047" />
+    <state x="288" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601328475642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="288" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1601328475642" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1601506120607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1601506120607" />
+    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1601327768512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1601327768512" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1601855613842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601855613842" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601818740003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601818740003" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/bibliotecario/principal_bibliotecaria.php</url>
+          <line>126</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/classes/Aluno.php</url>
+          <line>82</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/classes/Funcionario.php</url>
+          <line>53</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/bibliotecario/aluno/inserir_aluno.php</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/secretaria/selecionar_empre_func.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/classes/EmprestimoFuncionario.php</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/bibliotecario/funcionario/registro_emprestimo.php</url>
+          <line>21</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/classes/EmprestimoFuncionario.php</url>
+          <line>100</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/classes/EmprestimoFuncionario.php</url>
+          <line>102</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/classes/Emprestimo.php</url>
+          <line>84</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/classes/Emprestimo.php</url>
+          <line>96</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/classes/Livro.php</url>
+          <line>121</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/aluno/selecionar_livro.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/classes/EmprestimoFuncionario.php</url>
+          <line>122</line>
+          <properties>
+            <option name="className" value="\EmprestimoFuncionario" />
+            <option name="methodName" value="multa" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/classes/Emprestimo.php</url>
+          <line>48</line>
+          <properties>
+            <option name="className" value="\Emprestimo" />
+            <option name="methodName" value="find" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/classes/Emprestimo.php</url>
+          <line>80</line>
+          <properties>
+            <option name="className" value="\Emprestimo" />
+            <option name="methodName" value="registroEmprestimo" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

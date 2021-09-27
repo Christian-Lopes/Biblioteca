@@ -1,0 +1,25 @@
+<tr>
+
+    <td>{titulo}</td>
+    <td>{editora}</td>
+    <td>{quantidade}</td>
+
+    <td>
+        <a href="principal_bibliotecaria.php?link=10&id={id}" title="editar">
+            <i class="fas fa-edit" style="color: purple"></i>
+        </a>
+        |
+        <a href="principal_bibliotecaria.php?link=9&id={id}" title="deletar" onclick="return confirm('Deseja excluir o registro?')">
+           <i class="fas fa-trash-alt" style="color: #dd0000"></i>
+        </a>
+        |
+        <a href="principal_bibliotecaria.php?link=15&codigo_livro={id}" title="visualizar">
+            <i class="fas fa-mouse-pointer" style="color: #007020"></i>
+        </a>
+        |
+        <a href="principal_bibliotecaria.php?link=18&codigo_livro={id}" title="emprestar">
+            <i class="fas fa-angle-double-right" style="color: midnightblue"></i>
+        </a>
+        </a>
+    </td>
+</tr>

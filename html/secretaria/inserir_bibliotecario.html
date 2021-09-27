@@ -1,0 +1,54 @@
+<h1>Cadastro Bibliotecário</h1>
+<hr>
+
+<form name="cadaluno" id="cadaluno" method="post" action="../secretaria/principal_secretaria.php?link=1">
+    <section class="row" id="cadastro">
+        <div class="col-md-5">
+            <label>Matrícula:</label>
+            <input type="text" name="matricula" class="form-control" minlength="6" maxlength="6" required>
+        </div>
+
+        <div class="col-md-7">
+            <label>Nome:</label>
+            <input type="text" name="nome" class="form-control" minlength="3" maxlength="50" required>
+        </div>
+
+        <div class="col-md-6">
+            <label>Sobrenome:</label>
+            <input type="text" name="sobrenome" class="form-control" minlength="3" maxlength="100" required>
+        </div>
+
+        <div class="col-md-6">
+            <label>Email:</label>
+            <input type="email" name="email" class="form-control" minlength="6" maxlength="100" required>
+        </div>
+
+        <div class="col-md-3">
+            <label>Telefone:</label>
+            <input type="text" name="telefone" class="form-control" placeholder="DDD + 99999 9999"
+                   minlength="11" maxlength="11" required>
+        </div>
+
+        <div class="col-md-3">
+            <label>CPF:</label>
+            <input type="number" name="cpf" class="form-control" minlength="11" maxlength="11" required>
+        </div>
+
+        <div class="col-md-6">
+            <label>Endereço:</label>
+            <input type="text" name="endereco" class="form-control" minlength="5" maxlength="200" required>
+        </div>
+    </section>
+
+    <br>
+    <br>
+    <section class="row" id="btngravar">
+        <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <button type="submit" class="btn btn-success btn-block"
+                        onclick="alert('Registro inserido com sucesso!')">Salvar
+                </button>
+            </div>
+        <div class="col-md-4"></div>
+    </section>
+</form>

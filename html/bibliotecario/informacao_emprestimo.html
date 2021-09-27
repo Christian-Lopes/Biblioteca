@@ -1,0 +1,105 @@
+<h1>Comfirmação</h1>
+<hr>
+
+<form name="cadaluno" id="cadaluno" method="post"
+      action="../bibliotecario/principal_bibliotecaria.php?link=21&codigo_livro={id}&disponivel={disponivel}">
+    <section class="row" id="cadastro">
+        <div class="col-md-4">
+            <label>CPF:</label>
+            <input type="number" name="cpf" class="form-control"  required>
+        </div>
+
+        <div class="col-md-4">
+            <label for="exampleFormControlSelect1">Tipo:</label>
+            <select name="leitor" class="form-control" >
+                <option value="1">Aluno</option>
+                <option value="2">Funcionário</option>
+            </select>
+        </div>
+
+        <div class="col-md-4">
+            <label for="exampleFormControlSelect1">Quantidade:</label>
+            <select name="quantidade" class="form-control" >
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+            </select>
+        </div>
+        <br>
+        <hr>
+
+        <dl>
+            <br>
+            <br>
+
+            <dt class="col-sm-2">Data Empréstimo:</dt>
+            <dd class="col-sm-4">{data_emprestimo} </dd>
+
+            <dt class="col-sm-2">Data Devolução:</dt>
+            <dd class="col-sm-4">{data_devolucao}</dd>
+
+            <br>
+            <br>
+
+            <dt class="col-sm-1">Título:</dt>
+            <dd class="col-sm-4">{titulo} </dd>
+
+            <dt class="col-sm-1">Subtítulo:</dt>
+            <dd class="col-sm-4">{subtitulo}</dd>
+
+            <br>
+            <br>
+
+            <dt class="col-sm-1">Publicado:</dt>
+            <dd class="col-sm-3">{publicado}</dd>
+
+            <dt class="col-sm-1">Editora:</dt>
+            <dd class="col-sm-3">{editora}</dd>
+
+            <dt class="col-sm-1">ISBN:</dt>
+            <dd class="col-sm-3">{isbn}</dd>
+
+            <br>
+            <br>
+
+            <dt class="col-sm-1">Edição:</dt>
+            <dd class="col-sm-3">{edicao}</dd>
+
+            <dt class="col-sm-1">Autor:</dt>
+            <dd class="col-sm-3">{autor}</dd>
+
+            <dt class="col-sm-2">Total Quantidade:</dt>
+            <dd class="col-sm-2">{quantidade}</dd>
+
+            <br>
+            <br>
+
+            <dt class="col-sm-1">Categoria:</dt>
+            <dd class="col-sm-3">{categoria}</dd>
+
+            <dt class="col-sm-1">Tipo:</dt>
+            <dd class="col-sm-3">{tipo}</dd>
+
+            <dt class="col-sm-2">Total Disponível:</dt>
+            <dd class="col-sm-2">{disponivel}</dd>
+        </dl>
+    </section>
+
+    <br>
+    <br>
+    <section class="row" id="btngravar">
+        <div class="col-md-2"></div>
+        <div class="col-md-4">
+            <a href="principal_bibliotecaria.php?link=18&codigo_livro={id}">
+                <button type="button" class="btn btn-primary btn-block" > Voltar </button>
+            </a>
+        </div>
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+            <button type="submit" class="btn btn-success btn-block" onclick="alert('Validando empréstimo!')">
+                 Salvar </button>
+        </div>
+        <div class="col-md-4"></div>
+        <div class="col-md-2"></div>
+    </section>
+</form>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../1-estruturado-para-orinetado-objeto/.idea/1-estruturado-para-orinetado-objeto.iml" filepath="$PROJECT_DIR$/../1-estruturado-para-orinetado-objeto/.idea/1-estruturado-para-orinetado-objeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/2-biblioteca.iml" filepath="$PROJECT_DIR$/.idea/2-biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3-data/.idea/3-data.iml" filepath="$PROJECT_DIR$/../3-data/.idea/3-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../biblioteca_teste/.idea/biblioteca_teste.iml" filepath="$PROJECT_DIR$/../biblioteca_teste/.idea/biblioteca_teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../forge_biblioteca/.idea/forge_biblioteca.iml" filepath="$PROJECT_DIR$/../forge_biblioteca/.idea/forge_biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Estudos/pdo_noturno/.idea/pdo_noturno.iml" filepath="$PROJECT_DIR$/../Estudos/pdo_noturno/.idea/pdo_noturno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../phpoo4-master/.idea/phpoo4-master.iml" filepath="$PROJECT_DIR$/../phpoo4-master/.idea/phpoo4-master.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<tr>
+
+    <td>{nome}</td>
+    <td>{matricula}</td>
+    <td>{telefone}</td>
+
+
+    <td>
+        <a href="principal_bibliotecaria.php?link=12&id={id}" title="editar">
+           <i class="fas fa-edit" style="color: purple"></i>
+        </a>
+        |
+        <a href="principal_bibliotecaria.php?link=11&id={id}" title="deletar" onclick="return confirm('Deseja excluir o registro?')">
+            <i class="fas fa-trash-alt" style="color: #dd0000"></i>
+        </a>
+        |
+        <a href="principal_bibliotecaria.php?link=16&id={id}" title="visualizar">
+           <i class="fas fa-mouse-pointer" style="color: #007020"></i>
+        </a>
+    </td>
+</tr>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="1-estruturado-para-orinetado-objeto" />
+    <orderEntry type="module" module-name="forge_biblioteca" />
+    <orderEntry type="module" module-name="pdo_noturno" />
+    <orderEntry type="module" module-name="biblioteca_teste" />
+    <orderEntry type="module" module-name="phpoo4-master" />
+    <orderEntry type="module" module-name="3-data" />
+  </component>
+</module>
